@@ -1,0 +1,8 @@
+<?php
+echo i=10
+echo "hello world";
+echo"i am student";
+echo"for{
+i=0,i<15,i++}
+echo i;
+?>
