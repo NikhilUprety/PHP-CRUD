@@ -92,7 +92,8 @@
         </div>
     </div>
 
-    <!-- kei db ma halnu xa bhani post ani kei db bata linu xa bhani get
+    <!-- kei db ma halnu xa bhani post ani kei db bata linu xa bhani get use  hunxa
+    
     <form action="form.php" method="post" onsubmit="return validate()">
         name:
         <input type="text" name="username" >
